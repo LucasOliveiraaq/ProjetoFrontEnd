@@ -1,2 +1,2 @@
 # ProjetoFrontEnd
-Projeto de estudo web Senac-SC
+Projeto de estudo Web - Senac-SC
